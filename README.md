@@ -5,6 +5,6 @@ Pour trouver notre notebook officiel, il suffit de cliquer sur celui qui s'intit
 
 ### Récapitulatif des notebooks présents sur notre Github :
 
-- **Trajet_GPS :** notebook final renvoyant aux autres notebooks
+- **Projet :** notebook final renvoyant aux autres notebooks
 - **get_data :** récupération des données et construction de notre base
 - **main :** visualisation des données (parties "Statistiques descriptives" et "Exploration graphique") et modélisation
