@@ -7,7 +7,7 @@ Pour trouver notre notebook officiel, il suffit de cliquer sur celui qui s'intit
 
 - **Projet :** notebook final renvoyant aux autres notebooks
 - **get_data :** notebook comportant le code sur la récupération des données et sur la construction de notre base
-- **Stat_des :** notebook comportant le code la partie "Statistiques descriptives"
-- **Explo_graph :** notebook comportant le code la partie "Exploration graphique"
-- **model :** notebook comportant le code la partie "Modélisation"
+- **Stat_des :** notebook comportant le code de la partie "Statistiques descriptives"
+- **Explo_graph :** notebook comportant le code de la partie "Exploration graphique"
+- **model :** notebook comportant le code de la partie "Modélisation"
 - __doc-data :__ documentation sur la base de l'UCPD
