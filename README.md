@@ -7,7 +7,6 @@ Pour trouver notre notebook officiel, il suffit de cliquer sur celui qui s'intit
 
 - **Projet :** notebook final renvoyant aux autres notebooks
 - **get_data :** notebook comportant le code sur la récupération des données et sur la construction de notre base
-- **main :** notebook comportant le code des parties visualisation des données (parties "Statistiques descriptives" et "Exploration graphique") et modélisation
 - **Stat_des :** notebook comportant le code la partie "Statistiques descriptives"
 - **Explo_graph :** notebook comportant le code la partie "Exploration graphique"
 - **model :** notebook comportant le code la partie "Modélisation"
